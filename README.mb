@@ -1,0 +1,8 @@
+CSC 481 Homework 2
+    - Using batch and stochastic gradient descent
+    - Determining new weights and best fit line
+
+finding y at:
+    - x = 5
+    - x = -100
+    - x = 100
