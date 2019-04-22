@@ -6,3 +6,10 @@ finding y at:
     - x = 5
     - x = -100
     - x = 100
+
+batch.py == batch gradient descent
+stoch.py == stochastic gradient descent
+
+Im assuming you have pylab installed:
+    - I run my .py files in terminal (python batch.py and python stoch.py)
+    - It should work exactly the same in the IDE as well
