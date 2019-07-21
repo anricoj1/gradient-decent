@@ -3,7 +3,7 @@
     - Determining new weights and best fit line
 
 # To Run
-  -Method 1:
+  - Method 1:
     - new run.sh file
     - make sure you (chmod u+x run.sh)
     - if not just "sh run.sh" in terminal
