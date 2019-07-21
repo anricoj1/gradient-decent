@@ -1,8 +1,8 @@
-#CSC 481 Homework 2
+# CSC 481 Homework 2
     - Using batch and stochastic gradient descent
     - Determining new weights and best fit line
 
-#To Run
+# To Run
   -Method 1:
     - new run.sh file
     - make sure you (chmod u+x run.sh)
@@ -14,13 +14,13 @@
       - python3 batch.py
 
 
-#What I Learned
+# What I Learned
   - How to Interpret Gradient Descent
   - Using Batch Does Take Longer (of course)
   - Stochastic is much faster and much more optimal with large data sets
 
 
-#Results
+# Results
 finding y at:
     - x = 5
     - x = -100
